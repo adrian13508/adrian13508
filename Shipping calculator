@@ -1,0 +1,34 @@
+# parcel weight in lbs
+weight = 4.5
+
+# Ground Ghipping 
+if weight <= 2:
+  calculation = weight * 1.5 + 20
+  print("Cost of Ground Shipping: " + str(calculation) + " USD")
+elif weight > 2 and weight <= 6:
+  calculation = weight * 3 + 20
+  print ("Cost of Ground Shipping: " + str(calculation) + " USD")
+elif weight > 6 and weight <=10:
+  calculation = weight * 4 + 20
+  print ("Cost of Ground Shipping: " + str(calculation) + " USD")
+else:
+  calculation = weight * 4.75 + 20
+  print ("Cost of Ground Shipping: " + str(calculation) + " USD")
+
+# Premium Groumd Shipping
+premium_shipping_cost = 125
+print ("Cost of Ground Shipping Premium " + str(premium_shipping_cost) + " USD" )
+
+# Drone shipping 
+if weight <= 2:
+  calculation = weight * 4.5 
+  print("Cost df Drone Shipping: " + str(calculation) + " USD")
+elif weight > 2 and weight <= 6:
+  calculation = weight * 9
+  print("Cost df Drone Shipping: " + str(calculation) + " USD")
+elif weight > 6 and weight <= 10:
+  calculation = weight * 12 
+  print("Cost df Drone Shipping: " + str(calculation) + " USD")
+else: 
+  calculation = weight * 14.25
+  print("Cost df Drone Shipping: " + str(calculation) + " USD")
