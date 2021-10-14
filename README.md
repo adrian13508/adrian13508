@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrian13508 / Adrian Kurowski
 - 👀 I’m interested in 3d design, programming, electronics and FPV drones. 
-- 🌱 I’m currently learning python 3 and photorealistic rendering.
+- 🌱 I’m currently learning python 3 and Django.
 - 📫 How to reach me e-mail, WhatsApp, messenger @adrian13508
 
 <!---
