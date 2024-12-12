@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrian13508 / Adrian Kurowski experienced Web Developer delivering web apps in Django / Django Next.js stack.
+- 👋 Hi, I’m @adrian13508 / Adrian Kurowski experienced Web / Mobile Developer delivering web apps in Django / Next.js / ReacNative / Expo stack.
 - 👀 I’m interested in web development, programming, electronics and FPV drones. 👉👉
 - 📫 How to reach me adrian@kurowski.dev, WhatsApp, Facebook messenger @adrian13508
 - 🪪 I hold ISTQB, PCAP, W3Scholls Django Certificates
